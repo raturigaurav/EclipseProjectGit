@@ -6,5 +6,9 @@ import org.springframework.web.bind.annotation.RestController;
 public class MyController {
 	
 	
+	public String hello() {
+		return "hello world";
+	}
+	
 
 }

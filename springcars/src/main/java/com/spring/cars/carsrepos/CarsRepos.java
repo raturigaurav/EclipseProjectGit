@@ -6,4 +6,7 @@ import com.spring.cars.entities.Cars;
 
 public interface CarsRepos extends JpaRepository<Cars, Integer>{
 
+
+	// this is my fist commit
+
 }
